@@ -35,7 +35,6 @@ A fully-typed social media backend built with TypeScript and Node.js, featuring 
 
 ```
 src/
-├── config/
 ├── modules/
 │   ├── user/
 |   ├── auth/
